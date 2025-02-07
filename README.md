@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Himanshuprajapati024
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning Bsc.IT
+- 👋 Hi, I’m @Himanshuprajapati024.
+- 👀 I’m interested in Web Development and Software Testing.
+- 🌱 I’m currently learning Bsc.IT.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me prajapatuihimanshu@gmail.com
 
